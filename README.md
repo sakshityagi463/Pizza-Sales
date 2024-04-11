@@ -1,4 +1,3 @@
-```markdown
 # 🍕📊 Pizza Sales Dashboard
 
 ## Steps in Project:
@@ -102,5 +101,11 @@ We designed a dashboard highlighting the worst and best performing pizza items b
 
 Navigator buttons were added to enhance user experience, allowing easy navigation between different sections of the dashboard.
 
-Stay tuned as we unveil our Pizza Sales Dashboard, providing valuable insights to drive our business forward! 🍕🚀
-```
+Stay tuned as we unveil our Pizza Sales Dashboard, providing valuable insights to drive our business forward! 🍕🚀.
+Here the Final look is:
+### Home Dashboard
+![Pizza2](https://github.com/sakshityagi463/Pizza-Sales/assets/139478287/ef89e6a2-4502-4969-9e45-6413e62bfa7e)
+
+
+### Worst and Best Sellers
+![Pizza1](https://github.com/sakshityagi463/Pizza-Sales/assets/139478287/168696f6-e63c-4e98-8c40-b0d1ddcf6c98)
